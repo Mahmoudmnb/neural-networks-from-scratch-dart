@@ -472,6 +472,4 @@ Flutter Developer & Audio AI Engineer
 
 ## 📄 License
 
-This repository is provided for educational and portfolio purposes.
-
-If a dedicated `LICENSE` file is added, its terms take precedence over this notice.
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
