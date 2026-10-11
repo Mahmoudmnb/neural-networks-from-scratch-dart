@@ -1,5 +1,5 @@
-name: NN_project
-description: A simple Dart project to read CSV files
+name: neural_networks_from_scratch_dart
+description: Neural networks implemented from scratch in Dart, including an MLP and Elman recurrent network with manual forward propagation, backpropagation, training, evaluation, and weight persistence.
 version: 1.0.0
 
 environment:
