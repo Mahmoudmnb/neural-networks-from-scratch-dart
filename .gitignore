@@ -1,0 +1,16 @@
+# Dart and build artifacts
+.dart_tool/
+.packages
+build/
+
+# Editor and OS metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
